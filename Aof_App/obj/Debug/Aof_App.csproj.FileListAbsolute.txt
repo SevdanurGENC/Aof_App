@@ -1,0 +1,12 @@
+c:\users\sevda_000\documents\visual studio 2010\Projects\Aof_App\Aof_App\Bin\Debug\ApplicationIcon.png
+c:\users\sevda_000\documents\visual studio 2010\Projects\Aof_App\Aof_App\Bin\Debug\Background.png
+c:\users\sevda_000\documents\visual studio 2010\Projects\Aof_App\Aof_App\Bin\Debug\Aof_App.dll
+c:\users\sevda_000\documents\visual studio 2010\Projects\Aof_App\Aof_App\Bin\Debug\Aof_App.pdb
+c:\users\sevda_000\documents\visual studio 2010\Projects\Aof_App\Aof_App\Bin\Debug\AppManifest.xaml
+c:\users\sevda_000\documents\visual studio 2010\Projects\Aof_App\Aof_App\Bin\Debug\Aof_App.xap
+c:\users\sevda_000\documents\visual studio 2010\Projects\Aof_App\Aof_App\obj\Debug\App.g.i.cs
+c:\users\sevda_000\documents\visual studio 2010\Projects\Aof_App\Aof_App\obj\Debug\MainPage.g.i.cs
+c:\users\sevda_000\documents\visual studio 2010\Projects\Aof_App\Aof_App\obj\Debug\Aof_App.g.resources
+c:\users\sevda_000\documents\visual studio 2010\Projects\Aof_App\Aof_App\obj\Debug\Aof_App.dll
+c:\users\sevda_000\documents\visual studio 2010\Projects\Aof_App\Aof_App\obj\Debug\Aof_App.pdb
+c:\users\sevda_000\documents\visual studio 2010\Projects\Aof_App\Aof_App\obj\Debug\XapCacheFile.xml
